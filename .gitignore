@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Swift files
+*.swiftdoc
+*.swiftmodule
+
 # Object files
 *.o
 *.ko
